@@ -1,6 +1,7 @@
-# biohacking
+# Biohacking
 
-A 'mindmap' markdown documentation about biohacking
+A 'mindmap' aka markdown documentation about biohacking and good practises to energygize your body and brain
+to function better overall during your day. Don't forget to take your neutritions on daily basis.
 
 # Requirements
 
