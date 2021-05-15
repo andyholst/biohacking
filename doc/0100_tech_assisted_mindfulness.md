@@ -1,3 +1,4 @@
+
 ## Tech assisting mindfulness
 
 - Apply meditation while listening to specific frequencies aka music, do self talk and expose to light therapy at 
