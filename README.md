@@ -45,3 +45,5 @@ npx markmap-cli -w target/biohacking_references.md
 while true; do cat biohacking_index.md doc/*.md > target/biohacking_references.md;\
 npx markmap-cli target/biohacking_references.md && sleep 60; done
 ```
+
+## References
