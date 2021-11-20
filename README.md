@@ -1,7 +1,8 @@
 # Biohacking
 
-A 'mindmap' aka markdown documentation about biohacking and good practises to energygize your body and brain
-to function better overall during your day. Don't forget to take your neutritions on daily basis.
+A 'mindmap' aka markdown documentation about biohacking and good practises to energize your body and brain
+to function better overall during your day. Don't forget to take your nutritions on daily basis. References of useful
+products and practises within Biohacking.
 
 # Requirements
 
@@ -11,10 +12,13 @@ to function better overall during your day. Don't forget to take your neutrition
 
 In order to view the markdown documentation as a mindmap you need to install markmap via yarn package manager.
 
+
 # Install markmap cli and related dependencies
 
 ```bash
-npm install -g yarn
+curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+sudo apt -y install nodejs
+sudo npm install -g yarn
 yarn global add markmap-cli
 ```
 
@@ -42,6 +46,7 @@ npx markmap-cli -w target/biohacking_references.md
 ## Autogenerate markdown file changes
 
 ```bash
+mkdir target
 while true; do cat biohacking_index.md doc/*.md > target/biohacking_references.md;\
 npx markmap-cli target/biohacking_references.md && sleep 60; done
 ```
