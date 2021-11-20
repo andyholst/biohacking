@@ -6,7 +6,7 @@
 - Environmental sensors
 - Ancient bacteria, melded with cells
 - Make power
-- Sense te environment around you
+- Sensitive to environment around you
 - Make proteins
 - Makes hormones
 - Makes neurotransmitters
@@ -39,7 +39,7 @@
 - Reduce inflammation
 - Reduce disconnection syndrome
 - Reduce impulsivity
-- Enhance thoughtful decision making
+- Enhance thoughtful decision-making
 - Increase empathy
 
 #### Block junk light
@@ -48,4 +48,4 @@
 
 #### Exposure to sun light or artificial light by photobiomodulation
 
-- Red and near infra red light devices
+- Red and near infra-red light devices
