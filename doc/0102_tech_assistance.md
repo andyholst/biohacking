@@ -62,3 +62,37 @@ and aid your meditation sessions
 - Energy from the cells comes from ATP production created by the mitochondria
 - Light goes into the hemoglobe and flows through the blood stream and finds mitochondria in cells that needs
 replenishment with new energy
+
+[Kaiyan Medical](https://www.kaiyanmedical.com) good site for references to known photobiomodulation devices.
+  
+##### Photobiomodulation devices
+
+###### [ADURO](https://www.aduroled.com)
+
+For the face, 7 light waves.
+
+* Red for anti-, reduce pain, increase blood circulation and more benefits.
+* Blue for anti-acne ansd more benefits.
+* Green for makes skin more beautiful and reduces migration.
+* Yellow for reducing redness from inflammation, sunburns and rosacea.
+* Orange promotes bright glow for more radiant skin.
+* Cyan calms and soothes irritated skin and reduces the size of swollen capillarires.
+* Purple increases the cel regeneration and renewal.
+* Infrared for deeper affect of organs with similar benefits such as red light.
+
+##### [Joovv](https://joovv.com)
+
+For the hole body, red light and infrared light.
+
+* Collagen Production: Reduce Wrinkles & Scars
+* Skin Health: Treat Acne, Psoriasis, And Rosacea
+* Hair Loss: Grow Healthier, Thicker Hair
+* Weight Loss: Get Rid Of Stubborn Fat And Cellulite
+* Muscle Repair: End Soreness & Improve Performance
+* Chronic Pain: Get Long-Lasting Pain Relief
+* Wound Healing: Recover From Injuries Faster
+* More benefits
+
+##### [Vielight](www.vielight.com)
+
+For the brain, recover brain cells. Treat dementia, alzheimer, stroke and better memory.
