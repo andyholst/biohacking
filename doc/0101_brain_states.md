@@ -37,7 +37,7 @@
 - Restorative
 - Glymphatic system is a network of perivascular spaces that promotes movement of cerebrospinal fluid (CSF)
 into the brain and clearance of metabolic waste. Occurs during deep sleep
-- From 8 to 12 Hz
+- From 1 to 3 Hz
 
 #### Gamma
 
