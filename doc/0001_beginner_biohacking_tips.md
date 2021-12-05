@@ -52,8 +52,6 @@
 
 #### Nutrition
 
-##### Improved brain function
-
 - B Complex
   - B1
   - B2
