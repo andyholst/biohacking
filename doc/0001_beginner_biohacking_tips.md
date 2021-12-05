@@ -54,25 +54,29 @@
 
 ##### Improved brain function
 
-- Potassium
-- Magnesium
-- Thyroid
-- Zinc
-- B2
-- CoensymeQ
+- B Complex
+  - B1
+  - B2
+  - B3
+  - B5
+  - B6
+  - B7
+  - B9
+  - B12
+- CoenzymeQ10
 - Flushniacin
 - Glycin
+- Magnesium carbonate (gut)
+- Magnesium L-Threonate (brain)
+- Magnesium orotate (hearth)  
 - Niacin
-- Vitamin C
+- Potassium
 - Salt
-- B1
-- B2
-- B3
-- B5
-- B6
-- B7
-- B9
-- B12
+- Selenium  
+- Thyroid
+- Vitamin C
+- Vitamin K  
+- Zinc
 
 ##### Experts
 
