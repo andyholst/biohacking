@@ -56,18 +56,98 @@ and aid your meditation sessions
 - JONATHAN GOLDMAN
 - SCOTT HUCKABAY
 
-#### Sun light aka light therapy
+### Sun light aka light therapy
 
 - Photobiomodulation therapy aka low level light therapy aka low laser level therapy
 - Energy from the cells comes from ATP production created by the mitochondria
 - Light goes into the hemoglobe and flows through the blood stream and finds mitochondria in cells that needs
 replenishment with new energy
+  
+### Photobiomodulation therapy
+
+#### Red light therapy "red light at 660 nm and infrared light at 850 nm"
+
+##### Anti-Inflammatory
+
+Chronic inflammation (now being called "inflamm-aging") is widely recognized as a major, if not the main, contributor 
+to all chronic diseases -- ranging from heart disease, to Alzheimer's and fibromyalgia, to depression and chronic 
+fatigue syndrome, to muscle/joint pain and organ diseases.
+
+Red/NIR light is effective at reducing systemic inflammation, thus, is a powerful tool to help mitigate and reduce 
+symptoms of chronic inflammation.
+
+##### Anxiety & Depression
+
+Neurotransmitter imbalance (the monoamine-deficiency hypothesis proposes that depression results as a consequence of 
+an imbalance and deficiency in  serotonin, dopamine, & noradrenaline in the central nervous system [CNS]; imbalance of 
+GABA, leading to over- or under-activation and atrophy of neurons)
+
+Decreased cerebral blood flow (low levels of nitric oxide, leading to decreased oxygen and metabolic needs to 
+different areas of the brain, especially the frontal lobe)
+
+Decreased energy (reduced glucose levels and mitochondrial dysfunction)
+
+Oxidative stress (overproduction of free radicals [i.e. dysfunctional mitochondria] or antioxidant deficiency)
+
+Neuroinflammation (increased cytokine levels released by macrophages could be accompanied by depression)
+
+Impaired neurogenesis (i.e., ability to regenerate and/or grow nerves/neurons; reduced growth factors, such as nerve 
+growth factor and brain-derived neurotrophic factor).
+
+##### Eye Health
+
+“LLLT given over a 2 week period led to an improvement in visual acuity in most patients with AMD. Unlike other 
+therapeutic approaches, LLLT improved visual acuity in patients with AMD of every stage. This study of a case series 
+shows that LLLT may be a novel therapeutic option for both early and advanced forms of AMD. This simple and highly 
+effective treatment improves visual acuity and may help to prevent loss of vision without adverse side effects.”
+
+“This study demonstrated that 670nm PBM ameliorates the damaging eﬀects of bright, continuous light on the retina. 
+Tx with 670nm light before, during, or even after exposure to bright white light led to a significant reduction in 
+photoreceptor cell death and prevented the severe disruption of the outer retina and the RPE.”
+
+“Present data suggest that treatment with red light can lead to significant protection of the retina from LD. This 
+treatment has the potential to reduce the adverse effects of bright light exposure; moreover, this noninvasive 
+therapeutic modality has considerable promise for the treatment of retinal degenerative disorders and ocular 
+inflammatory disease conditions.”
+
+“Taken as a whole, these studies in experimental models of retinal and optic nerve injury and disease show that far-red 
+and near-infrared RLT improves mitochondrial function, reduces oxidative stress and modulates inﬂammatory mediators, 
+leading to decreased apoptosis and retinoprotection.”
+
+“Photobiomodulation treatment statistically improved clinical and anatomical outcomes with more robust benefits 
+observed in subjects with earlier stages of dry age-related macular degeneration. Repeated RLT treatments are necessary 
+to maintain benefits. These pilot findings support previous reports and suggest the utility of RLT as a safe and 
+effective therapy in subjects with dry age-related macular degeneration.”
+
+“(Red light) LED treatment has an evident protective effect on retinal cells against light-induced damage, which may 
+be an innovative and non-invasive therapeutic approach to prevent or to delay age-related macular degeneration.”
+
+“NIR photobiomodulation is protective against bright-light-induced retinal degeneration, even when NIR treatment is 
+applied after exposure to light. This protective effect appears to involve a reduction of cell death and inflammation.
+Photobiomodulation has the potential to become an important treatment modality for the prevention or treatment of 
+light-induced stress in the retina. More generally, it could be beneficial in the prevention and treatment of retinal 
+conditions involving inflammatory mechanisms.”
+
+“(Regarding diabetic retinopathy) the treated eyes (using red light) of all patients demonstrated a statistically 
+significant decrease in macular thickness by an average of 20%, while non-treated eyes featured a slight increase in 
+thickness by 3% on average.”
+
+“Our study identified mitochondria related red light and near-infrared light-triggered defense mechanisms promoting 
+photoreceptor neuroprotection. The observed improvement of mitochondrial and extramitochondrial respiration in both 
+inner and outer segments is linked with reduced oxidative stress including its cellular consequences and reduced 
+mitochondria-induced apoptosis.”
+
+“Treatment with red light before, during or even after exposure to  blue light led to significant reduction in 
+photoreceptor cell death and prevented the severe disruption of the outer retina and the RPE 
+(retinal pigment epithelium). Photobiomodulation prevented the obliteration of the choroidal vascular network, 
+thus assuring the maintenance of the blood-retina barrier… Photobiomodulation also reduced cell stress and inflammatory 
+reaction in the retina.”
+
+#### Photobiomodulation devices
 
 [Kaiyan Medical](https://www.kaiyanmedical.com) good site for references to known photobiomodulation devices.
-  
-##### Photobiomodulation devices
 
-###### [ADURO](https://www.aduroled.com)
+##### [ADURO](https://www.aduroled.com)
 
 For the face, 7 light waves.
 
