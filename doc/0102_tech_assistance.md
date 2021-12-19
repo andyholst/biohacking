@@ -94,6 +94,29 @@ Neuroinflammation (increased cytokine levels released by macrophages could be ac
 Impaired neurogenesis (i.e., ability to regenerate and/or grow nerves/neurons; reduced growth factors, such as nerve 
 growth factor and brain-derived neurotrophic factor).
 
+##### Bone & Joint health
+
+Red/NIR light appears to stimulate energy production in cells, increase bone factors, enhance blood vessel formation 
+and blood flow to the affected area, modulates inflammation and enhances production of collagen.
+
+Red/NIR light can help with joint issues by decreasing pain, modulating inflammation, improving circulation to the 
+joint and stimulation of healing and cellular repair mechanisms in the joint itself. These are all powerful benefits 
+to maintain or improve joint health!
+
+##### Fat loss
+
+At a cellular level, red/NIR light is able to elicit a response that causes fat cells to release stored fat into the 
+bloodstream. Once in the circulatory system, the fat can be burned off as energy. Conveniently, this is 
+accomplished without compromising blood serum lipid profiles. Fat loss with BioLight is significantly amplified when 
+combined with a regular exercise regimen.
+
+##### Sleep
+
+Studies show that red/NIR light therapy has a positive impact on the hormone produced by your pineal gland in the brain
+that promotes sleep, melatonin. Not only can this assist individuals that are experiencing poor quality of sleep 
+(ie, trouble falling asleep, fragmented sleep, etc.), but RLT can also dramatically benefit quality and quantity of 
+sleep in insomniacs.
+
 ##### Eye Health
 
 “LLLT given over a 2 week period led to an improvement in visual acuity in most patients with AMD. Unlike other 
