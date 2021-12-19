@@ -46,7 +46,7 @@
 
 - Block blue light glasses
 
-#### Exposure to sun light or artificial light by photobiomodulation
+#### Exposure to sun light or artificial light by photobiomodulation devices
 
 - Red and near infra-red light devices
 
