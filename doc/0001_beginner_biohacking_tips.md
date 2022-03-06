@@ -52,6 +52,8 @@
 
 #### Nutrition
 
+##### For robust immune system and healthy cells
+
 - B Complex
   - B1
   - B2
@@ -62,7 +64,7 @@
   - B9
   - B12
 - CoenzymeQ10
-- Flushniacin
+- No-flush niacin
 - Glycin
 - Magnesium carbonate (gut)
 - Magnesium L-Threonate (brain)
@@ -72,10 +74,20 @@
 - Salt
 - Selenium  
 - Thyroid
+- Vitamin A
 - Vitamin C
+- Vitamin D3
+- Vitamin E
 - Vitamin K  
 - Zinc
 
-##### Experts
+##### For treating inflammation/infection caused by bacteria/viruses
+
+- Vitamin C (high dose)
+- Hydroxychloroquine
+- Ivermectin (overall good treatment with none side effects)
+- Fluoxetin
+
+##### Nutrition/medical experts
 
 - Barton Scott
